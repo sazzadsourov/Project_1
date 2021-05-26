@@ -1,0 +1,28 @@
+ body{
+ 	margin: 0;
+ }
+
+nav{}
+ul{
+	margin: 0;
+	list-style: none;
+	padding: 0;
+	background: url(bee.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+li{
+	display: inline-block;
+}
+a{
+	padding: 8px 16px;
+	display: block;
+	text-decoration: none;
+	color: white;
+	font-size: 30px;
+}
+a:hover{
+	color: red;
+	background: #1abc9c;
+}
+
